@@ -1,9 +1,10 @@
 title: Carlos Herrera Valerio
 logo: /assets/img/profile_photo_1-1_rounded.jpg
-description: > 
-  * Electronic Engineer
-  * 8+ years of experience
-  * Data Science
-  * Analog testing
+description: 
+ key: >
+  - Electronic Engineer
+  - 8+ years of experience
+  - Data Science
+  - Analog testing
 show_download: true
 theme: jekyll-theme-minimal
