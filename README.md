@@ -4,7 +4,7 @@
 
 ### ML
 #### Maximum_Likelihood_Estimate 
-[Project Jupyter](https://github.com/cmherrera/portfolio/blob/b3b8f3361501ac018b11be969399ec1787041b38/assets/projects/Maximum_Likelihood_Estimate/Maximum_Likelihood_Estimate.ipynb)
+[Project Jupyter](https://github.com/cmherrera/portfolio/blob/main/assets/projects/Maximum_Likelihood_Estimate/Maximum_Likelihood_Estimate.ipynb)
 #### Prediction models (Basic steps) py + R
 #### 	Classification
 ####	Hand writing recognition
