@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+This portfolio is a continuous work in progress with the purpose of showcasing my humble data science skills, I have done my best to put it together, please feel free to download the code from the repositories and try it yourself, in case you have any questions or suggestions please contact me at my email. Thanks for visiting.
+
 ## Projects
 
 ### Machine Learning Projects
