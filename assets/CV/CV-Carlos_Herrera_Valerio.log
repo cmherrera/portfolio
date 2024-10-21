@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  20 OCT 2024 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  20 OCT 2024 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -276,7 +276,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 51.
+Package hyperref Info: Option `colorlinks' set `true' on input line 45.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -286,24 +286,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./CV-Carlos_Herrera_Valerio.aux)
 \openout1 = `CV-Carlos_Herrera_Valerio.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -313,15 +313,15 @@ LaTeX Font Info:    ... okay on input line 53.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(21.33955pt, 571.61589pt, 21.33955pt)
-* v-part:(T,H,B)=(21.33955pt, 752.29088pt, 21.33955pt)
+* h-part:(L,W,R)=(19.91684pt, 574.46132pt, 19.91684pt)
+* v-part:(T,H,B)=(19.91684pt, 755.1363pt, 19.91684pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=571.61589pt
-* \textheight=752.29088pt
-* \oddsidemargin=-50.93044pt
-* \evensidemargin=-50.93044pt
-* \topmargin=-87.93044pt
+* \textwidth=574.46132pt
+* \textheight=755.1363pt
+* \oddsidemargin=-52.35315pt
+* \evensidemargin=-52.35315pt
+* \topmargin=-89.35315pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -361,24 +361,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring ON on input line 47.
 
 (./CV-Carlos_Herrera_Valerio.out) (./CV-Carlos_Herrera_Valerio.out)
 \@outlinefile=\write3
 \openout3 = `CV-Carlos_Herrera_Valerio.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 61.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 61.
+(Font)              <5> on input line 55.
 <../img/profile_photo_1-1_rounded.jpg, id=52, 188.20313pt x 188.95593pt>
 File: ../img/profile_photo_1-1_rounded.jpg Graphic file (type jpg)
 <use ../img/profile_photo_1-1_rounded.jpg>
 Package pdftex.def Info: ../img/profile_photo_1-1_rounded.jpg  used on input li
-ne 62.
-(pdftex.def)             Requested size: 91.46063pt x 91.82803pt.
+ne 56.
+(pdftex.def)             Requested size: 91.91591pt x 92.28647pt.
 
-Overfull \vbox (59.42807pt too high) detected at line 62
+Overfull \vbox (59.8865pt too high) detected at line 56
  []
 
 
@@ -398,7 +398,7 @@ ed.
 Here is how much of TeX's memory you used:
  9995 strings out of 473579
  155364 string characters out of 5728235
- 1952957 words of memory out of 5000000
+ 1953957 words of memory out of 5000000
  32783 multiletter control sequences out of 15000+600000
  559588 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -407,7 +407,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 82958 bytes).
+Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 83531 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
