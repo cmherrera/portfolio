@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  17 OCT 2024 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  20 OCT 2024 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,15 +313,15 @@ LaTeX Font Info:    ... okay on input line 53.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* h-part:(L,W,R)=(21.33955pt, 571.61589pt, 21.33955pt)
+* v-part:(T,H,B)=(21.33955pt, 752.29088pt, 21.33955pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=557.38951pt
-* \textheight=738.0645pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
+* \textwidth=571.61589pt
+* \textheight=752.29088pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-87.93044pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -371,19 +371,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 61.
-<../img/profile_photo_1-1_rounded.jpg, id=48, 188.20313pt x 188.95593pt>
+<../img/profile_photo_1-1_rounded.jpg, id=52, 188.20313pt x 188.95593pt>
 File: ../img/profile_photo_1-1_rounded.jpg Graphic file (type jpg)
 <use ../img/profile_photo_1-1_rounded.jpg>
 Package pdftex.def Info: ../img/profile_photo_1-1_rounded.jpg  used on input li
 ne 62.
-(pdftex.def)             Requested size: 89.18436pt x 89.54451pt.
+(pdftex.def)             Requested size: 91.46063pt x 91.82803pt.
 
-Overfull \vbox (57.14455pt too high) detected at line 62
- []
-
-
-Overfull \hbox (11.34773pt too wide) in paragraph at lines 98--103
- [][] 
+Overfull \vbox (59.42807pt too high) detected at line 62
  []
 
 
@@ -398,23 +393,24 @@ L3 programming layer <2024-08-16>
  ***********
 Package rerunfilecheck Info: File `CV-Carlos_Herrera_Valerio.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 0FFC8D18B3EFA92E52D3F348AA7EF743;1686.
+(rerunfilecheck)             Checksum: A75540FC576A7CBCA77838035520C4CE;1709.
  ) 
 Here is how much of TeX's memory you used:
- 9993 strings out of 473579
- 155324 string characters out of 5728235
- 1950957 words of memory out of 5000000
- 32782 multiletter control sequences out of 15000+600000
+ 9995 strings out of 473579
+ 155364 string characters out of 5728235
+ 1952957 words of memory out of 5000000
+ 32783 multiletter control sequences out of 15000+600000
  559588 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,16n,79p,543b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,16n,79p,616b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 76093 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 82958 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
