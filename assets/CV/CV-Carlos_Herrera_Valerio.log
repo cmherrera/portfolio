@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  22 OCT 2024 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  17 DEC 2024 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,19 +398,19 @@ ed.
 Here is how much of TeX's memory you used:
  9995 strings out of 473579
  155364 string characters out of 5728235
- 1953957 words of memory out of 5000000
+ 1952957 words of memory out of 5000000
  32783 multiletter control sequences out of 15000+600000
  559588 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,16n,79p,616b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,16n,79p,480b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 83919 bytes).
+Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 84239 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  14 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
