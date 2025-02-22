@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  17 DEC 2024 23:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.4)  18 DEC 2024 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,7 +393,7 @@ L3 programming layer <2024-08-16>
  ***********
 Package rerunfilecheck Info: File `CV-Carlos_Herrera_Valerio.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: A75540FC576A7CBCA77838035520C4CE;1709.
+(rerunfilecheck)             Checksum: 08E8AC103B3CACC32889590498DC5345;1717.
  ) 
 Here is how much of TeX's memory you used:
  9995 strings out of 473579
@@ -407,7 +407,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 84239 bytes).
+Output written on CV-Carlos_Herrera_Valerio.pdf (1 page, 84272 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
