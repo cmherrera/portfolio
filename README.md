@@ -12,8 +12,6 @@ This porject takes a large uncleaned dataset of loan records and explores the da
 
 [Project Jupyter](https://github.com/cmherrera/portfolio/blob/main/assets/projects/Financial_Analysis/Financial_Analysis.ipynb)
 
-![(./assets/projects/Financial_Analysis/Personal_Loan_Analysis_chart.png)
-
 <img src= "./assets/projects/Financial_Analysis/Personal_Loan_Analysis_chart.png" alt="Personal Loan Analysis Chart" style="border: 2px solid grey;">
 
 
