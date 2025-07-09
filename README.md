@@ -4,11 +4,10 @@ This portfolio is a continuous work in progress with the purpose of showcasing d
 
 ## Projects
 
-### Machine Learning Projects
 
-#### Data Visualization
+### Data Visualization
 
-This porject takes a large uncleaned dataset of loan records and explores the data with visual tools to uncover hidden trends and interesting insights that help build an intuition of the information contained within.
+This project takes a large uncleaned dataset of loan records and explores the data with visual tools to uncover hidden trends and interesting insights that help build an intuition of the information contained within.
 
 [Project Jupyter](https://github.com/cmherrera/portfolio/blob/main/assets/projects/Financial_Analysis/Financial_Analysis.ipynb)
 
